@@ -1,0 +1,8 @@
+1 musteri
+Musteri 1 masa 1'e oturdu.
+Asci 1, Masa 1'den siparisi hazirlamaya basladi.
+Asci 1, Masa 1'un siparisi hazirladi.
+Masa 1, yemegini yemeye basladi.
+Garson 1, Masa 1'den siparis aldı.
+Masa 1, yemegini yedi.
+Masa 1, odeme yapti ve restorandan ayrildi.
